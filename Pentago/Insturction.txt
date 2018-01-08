@@ -1,0 +1,7 @@
+INSTRUCTIONS:
+Enter 'B' or 'W' when prompted to choose your color.
+Enter '1' or '2' to choose to go first or second.
+When prompted, enter a move in format b/p bd 
+	where b/p is the board/position to place your piece and
+	where bd is the board/rotation to rotate
+Get 5 of your pieces in a row to win.
